@@ -9,7 +9,8 @@ Image Integration: A custom image is displayed to enhance the visual appeal of t
 Object-Oriented Design: Implements OOP principles by encapsulating logic in a Person class.
 
 # Technologies Used
-Python: Core programming language.
-Tkinter: For building the graphical user interface.
-Pillow (PIL): For image loading and display.
-Datetime Module: For performing date calculations
+-Python: Core programming language.
+-Tkinter: For building the graphical user interface.
+-Pillow (PIL): For image loading and display.
+-Datetime Module: For performing date calculations
+## Usage 
