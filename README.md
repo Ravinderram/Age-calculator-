@@ -1,14 +1,9 @@
 # Age-calculator
 An intuitive Python-based Age Calculator Application with a graphical user interface (GUI) created using Tkinter. This project allows users to calculate their exact age by entering their date of birth, making it a beginner-friendly yet practical application for learning Python and GUI development<br />
 
-<table width="100%" height="100%" border="0" cellpadding="0" cellspacing="0">
-  <tr>
-    <td align="center" valign="middle">
-      <img src="https://github.com/user-attachments/assets/f39e618f-9be0-44aa-86b9-12f80d1783ec" width="300" height="300">
-    </td>
-  </tr>
-</table>
-
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/f39e618f-9be0-44aa-86b9-12f80d1783ec" alt="age " />
+</p>
 
 
 *Image Source: [Sainik Age Calculator](https://spsainik.com/age-calculator/)*
